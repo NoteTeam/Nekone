@@ -1,7 +1,7 @@
 {
-      "name": "Layla Robot",
+      "name": "Nekone",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/8f6b24120aab8490dca45.jpg",
+      "logo": "https://telegra.ph/file/f4a6e8207236831a353a9.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Layla"
       ],   
-   "repository": "https://github.com/QueenArzoo/LaylaRobot.git",
+   "repository": "https://github.com/NoteTeam/Nekone.git",
    "addons": [
       {
          "options": {
@@ -67,12 +67,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "HEROGAMERS1"
+         "value": "psycholy9"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "AwesomeSupport"
+         "value": "jawravirtul"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
